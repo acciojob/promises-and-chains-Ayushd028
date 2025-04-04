@@ -1,1 +1,12 @@
-/*  your css code here. If applicable */
+form{
+	display: flex;
+	flex-direction: column;
+	padding: 10px;
+	margin: 10px;
+	gap: 10px;
+}
+
+button{
+	padding:5px;
+	margin-left: 20px;
+}
